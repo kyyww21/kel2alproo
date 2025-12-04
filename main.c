@@ -5,6 +5,7 @@ int main(){
     scanf("%s", &i);
     printf("Ini adalah nama anda %s", i);
     printf("Apawh");
+    printf("Masukan aNJING");
 
 }
 
