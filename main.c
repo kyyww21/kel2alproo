@@ -1,8 +1,9 @@
 #include <stdio.h>
 int main(){
-    int i;
+    char i[10];
     printf("Masukan nama Anda : ");
-    scanf("%d", &i);
-    printf("Ini adalah nama anda %d", i);
+    scanf("%s", &i);
+    printf("Ini adalah nama anda %s", i);
+
 }
 
